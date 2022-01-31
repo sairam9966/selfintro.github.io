@@ -19,6 +19,7 @@ background-color:  rgb(8, 45, 61);
 position: -webkit-sticky; 
 position: sticky;
 top: 0;
+
 }
 
 
@@ -34,7 +35,9 @@ color:whitesmoke;
 text-align: center;
 padding: 10px 20px;
 text-decoration: none;
-font: italic small-caps bold 16px/2 cursive;
+font-family: Georgia ,  serif;
+font-weight: bold;
+font-style: italic;
 }
 
 li a:hover {
@@ -95,7 +98,10 @@ padding: 3vh 0;
 }
 .matter{
 padding:3vh 1vh;
-font: italic small-caps bold 16px/2 cursive;
+/* font: italic small-caps bold 16px/2 cursive; */
+font-family: Georgia ,  serif;
+font-weight: bold;
+font-style: italic;
 font-size: 80%;
 overflow: hidden;
 color:rgb(8, 45, 61);

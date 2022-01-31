@@ -134,10 +134,10 @@ border: 0.1px solid whitesmoke;
 
 }
 .matter{
-    padding-top: 40px;
+    padding:4vh 0;
     word-spacing: 3px;
     font-size: 13px;
-    line-height:120%;
+    line-height:30px;
 }
 }
 @keyframes example {

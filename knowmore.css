@@ -134,9 +134,9 @@ border: 0.1px solid whitesmoke;
 
 }
 .matter{
-    padding-top: 70px 0;
-    font-size:20px;
-    word-spacing:3px;
+    padding-top: 20px;
+    word-spacing: 3px;
+    font-size: 13px;
 }
 }
 @keyframes example {
